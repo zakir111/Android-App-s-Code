@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">All In One</string>
+    <string name="_1_show_name_now">1. Show Name Now</string>
+    <string name="_2_make_it_rain">2. Make It Rain</string>
+    <string name="button">3. True Citizen Quiz</string>
+    <string name="show_name">SHOW NAME</string>
+    <string name="go_to_main_menu">GO TO MAIN MENU</string>
+    <string name="make_it_rain">MAKE IT RAIN</string>
+    <string name="_0">0</string>
+    <string name="you_have">You Have</string>
+    <string name="sample_question">1. Android uses java  </string>
+    <string name="question_declaration">2. India is the most populated country</string>
+    <string name="ques">3. U.S the most developed country</string>
+
+    <string name="falses">FALSE</string>
+    <string name="trues">TRUE</string>
+</resources>
